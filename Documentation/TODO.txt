@@ -1,0 +1,31 @@
+What works currently:
+-Start menu loads
+-Clicking the start button starts the game
+-Clicking the exit button exits the game
+-Character can move in all directions
+
+What needs to be done:
+Start Menu:
+-Options
+--Sound on/off
+
+Gameplay (Character features):
+-Plant 
+-Using tool(s)
+-Interact (with objects and NPCs)
+-Breed
+
+Pepper Hub 
+-Not sure exactly what is going here
+
+Farmstand
+-Linus expression/direction changes when character interacts
+-Dialog loop
+-Adjusting money amount when buying/selling
+-Display inventory
+
+Graphics
+-Getting everything loaded into UE to use
+-Background/floor
+-Interactable objects (Peppers, seeds, tools (requires extra sprite animations)
+-Obstacle objects (trees, fences, etc)
