@@ -1,31 +1,41 @@
-What works currently:
--Start menu loads
--Clicking the start button starts the game
--Clicking the exit button exits the game
--Character can move in all directions
+What needs to be done: 
 
-What needs to be done:
-Start Menu:
--Options
---Sound on/off
+Start Menu: Mikey, Troy
+-Options 
+--Sound on/off 
 
-Gameplay (Character features):
+Gameplay (Character features): Sarah, Mikey
+-Concept of time
 -Plant 
--Using tool(s)
--Interact (with objects and NPCs)
--Breed
+-Using tool(s) 
+-Interact (with objects and NPCs) 
+-Breed 
+Loop: 
+It must be planted on dirt  (secondary hoe)
+Time passes and can vary between peppers
+Pepper is fully grown and moving around
+Plant just disappears (secondary some plants are able to keep growing new peppers)
+If you have more seeds you can grow new peppers
+    
 
-Pepper Hub 
--Not sure exactly what is going here
+Pepper Hub: Troy, Kana
+Loop:
+Have a list of full grown peppers
+Click 2 to breed names on list
+Seeds can be picked up at crate at barn (instantly)
+Peppers are killed after n breedings
+Now the seeds can be planted
 
-Farmstand
--Linus expression/direction changes when character interacts
--Dialog loop
--Adjusting money amount when buying/selling
--Display inventory
+Farmstand: Kana, Sarah
+4 -Linus expression/direction changes when character interacts 
+3 -Dialog loop 
+1 -Adjusting money amount when buying/selling 
+2 -Display inventory 
 
-Graphics
--Getting everything loaded into UE to use
--Background/floor
--Interactable objects (Peppers, seeds, tools (requires extra sprite animations)
--Obstacle objects (trees, fences, etc)
+Graphics 
+-Getting everything loaded into UE to use 
+-Background/floor Troy, Mikey
+-Interactable objects (Peppers, seeds, tools (requires extra sprite animations) Kana and Sarah 
+-Obstacle objects (trees, fences, etc) 
+
+
